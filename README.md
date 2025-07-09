@@ -15,7 +15,7 @@ An Excel-based dashboard to analyze regional sales, marketing spend, and rep per
 
 ## 🔗 Screenshots
 ### 🔹 Dashboard Overview
-![Dashboard](dashboard_overview.png)
+![Dashboard](Dashboard.png)
 
 ## 📂 File
 - `Pharma_Market_Analyzer.xlsx`: Main Excel dashboard
